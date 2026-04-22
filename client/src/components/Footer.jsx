@@ -23,7 +23,7 @@ const Footer = () => {
         <footer className="bg-neutral-900 dark:bg-neutral-950 text-neutral-100 border-t border-neutral-800">
             <div className="container-max px-4 md:px-8">
                 {/* Main Footer Content */}
-                <div className="py-16 md:py-20">
+                <div className="py-16 md:pt-20 md:pb-20">
                     <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12">
                         {/* Brand Section */}
                         <div className="md:col-span-1">

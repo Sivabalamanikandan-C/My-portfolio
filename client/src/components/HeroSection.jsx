@@ -13,7 +13,7 @@ const HeroSection = () => {
 
     return (
         <section 
-            className="relative min-h-screen pt-24 pb-12 md:pt-32 md:pb-24 px-4 md:px-8 bg-gradient-to-br from-white via-blue-50/5 to-white dark:from-neutral-950 dark:via-primary-950/10 dark:to-neutral-950 overflow-hidden" 
+            className="relative pt-24 pb-6 md:pt-32 md:pb-24 px-4 md:px-8 bg-gradient-to-br from-white via-blue-50/5 to-white dark:from-neutral-950 dark:via-primary-950/10 dark:to-neutral-950 overflow-hidden" 
             id='hero_section' 
             data-aos="fade-down" 
             data-aos-duration="1500"

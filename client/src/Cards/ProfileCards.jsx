@@ -82,7 +82,7 @@ const ProfileCards = () => {
   ];
 
   return (
-    <section className="section-padding bg-gradient-to-b from-neutral-50 via-white to-neutral-50 dark:from-neutral-950 dark:via-neutral-900 dark:to-neutral-950">
+    <section className="pt-8 md:pt-24 pb-16 md:pb-24 px-4 md:px-8 bg-gradient-to-b from-neutral-50 via-white to-neutral-50 dark:from-neutral-950 dark:via-neutral-900 dark:to-neutral-950">
       <div className="container-max">
         {/* Section Header */}
         <div className="text-center mb-16 md:mb-20">

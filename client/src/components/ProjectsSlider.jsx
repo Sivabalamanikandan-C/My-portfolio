@@ -5,8 +5,8 @@ import actodoreact from '../assets/actodoreact.png'
 import weatherappreact from '../assets/weatherappreact.png'
 import loginformvalidation from '../assets/loginformvalidation.png'
 import NostraEcommerce from '../assets/NostraEcommerce.png'
-import greenden from '../assets/greenden.png'
-import tripadvisor from "../assets/tripadvisor.png"
+import greenden from '../assets/Greenden.png'
+import tripadvisor from "../assets/Tripadvisor.png"
 import udemy from "../assets/udemy.png"
 import elearning from '../assets/elearning.jpg'
 

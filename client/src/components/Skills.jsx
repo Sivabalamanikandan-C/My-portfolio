@@ -1,16 +1,16 @@
 import React from 'react';
 import SkillTemplate from '../Cards/SkillTemplate';
-import html from '../Assets/html.png'
-import css from '../Assets/css.png'
-import tailwindcss from '../Assets/tailwind-css.png'
-import bootstrap from '../Assets/bootstrap.png'
-import javascript from '../Assets/javascript.png'
-import react from '../Assets/react.png'
-import nodejs from '../Assets/nodejs.png'
-import express from '../Assets/express.png'
-import mongodb from '../Assets/mongodb.png'
-import git from '../Assets/git.png'
-import github from '../Assets/github.png'
+import html from '../assets/html.png'
+import css from '../assets/css.png'
+import tailwindcss from '../assets/tailwind-css.png'
+import bootstrap from '../assets/bootstrap.png'
+import javascript from '../assets/javascript.png'
+import react from '../assets/react.png'
+import nodejs from '../assets/nodejs.png'
+import express from '../assets/express.png'
+import mongodb from '../assets/mongodb.png'
+import git from '../assets/git.png'
+import github from '../assets/github.png'
 
 function Skill() {
     const imageData = [

@@ -1,14 +1,14 @@
 import React, { useState } from 'react';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
-import bulkmailer from '../Assets/bulkmailer.png'
-import actodoreact from '../Assets/actodoreact.png'
-import weatherappreact from '../Assets/weatherappreact.png'
-import loginformvalidation from '../Assets/loginformvalidation.png'
-import NostraEcommerce from '../Assets/NostraEcommerce.png'
-import greenden from '../Assets/greenden.png'
-import tripadvisor from "../Assets/tripadvisor.png"
-import udemy from "../Assets/udemy.png"
-import elearning from '../Assets/elearning.jpg'
+import bulkmailer from '../assets/bulkmailer.png'
+import actodoreact from '../assets/actodoreact.png'
+import weatherappreact from '../assets/weatherappreact.png'
+import loginformvalidation from '../assets/loginformvalidation.png'
+import NostraEcommerce from '../assets/NostraEcommerce.png'
+import greenden from '../assets/greenden.png'
+import tripadvisor from "../assets/tripadvisor.png"
+import udemy from "../assets/udemy.png"
+import elearning from '../assets/elearning.jpg'
 
 const projects = [
     { id: 1, title: 'E-Learning Platform', description: 'An online platform where instructors can upload courses and students can learn.', image: elearning, github: 'https://github.com/Sivabalamanikandan-C/E-Learning-platform.git', live: 'https://elearningplatform-hazel.vercel.app/', tags: ['React', 'Node.js','Express js', 'MongoDB'] },

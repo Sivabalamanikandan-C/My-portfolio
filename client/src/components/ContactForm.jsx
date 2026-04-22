@@ -22,7 +22,8 @@ const ContactForm = () => {
         setIsLoading(true);
 
         try {
-            const response = await axios.post('http://localhost:5000/api/contact/submit', formData);
+            // const response = await axios.post('https://localhost:5000/api/contact/submit', formData);
+            const response = await axios.post('https://my-portfolio-backend-p9s7.onrender.com/api/contact/submit', formData);
             console.log(response.data);
             setSubmitStatus('success');
             setFormData({ name: '', email: '', message: '' });

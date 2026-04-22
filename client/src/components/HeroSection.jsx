@@ -2,7 +2,7 @@ import React from 'react';
 import { FaWhatsapp, FaInstagram, FaLinkedin, FaGithub, FaArrowRight } from 'react-icons/fa';
 import AnimatedName from '../Cards/AnimatedName';
 import resume from "../document/Sivabala_Manikandan_Resume.pdf"
-import profileImg from '../assets/profilepic.jpeg'
+import profileImg from '../Assets/profilepic.jpeg'
 
 const HeroSection = () => {
     const socialLinks = [
